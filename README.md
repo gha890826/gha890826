@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ## Some Cards
 
 <p align="center">
-	<a href="https://leetcode.com/gha890826/" target="_blank"><img src="https://leetcode.card.workers.dev/gha890826?theme=auto&font=baloo&extension=null" alt="https://leetcode.com/gha890826/"></a>
+	<a href="https://leetcode.com/gha890826/" target="_blank"><img src="https://leetcode.card.workers.dev/gha890826?theme=auto&font=baloo&extension=null"></a>
 	<!-- by tool https://leetcode.card.workers.dev/ -->
 </p>
 <p align="center">
-	<a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/tall/6601d1210973993ed05ac664?variant=dark" alt="roadmap.sh"/></a>
+	<a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/tall/6601d1210973993ed05ac664?variant=dark"></a>
 	<!-- by https://roadmap.sh/ -->
 </p>
