@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![LeetCode Stats](https://leetcode.card.workers.dev/gha890826?theme=auto&font=baloo&extension=activity)
+<!-- by tool https://leetcode.card.workers.dev/ -->
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6601d1210973993ed05ac664?variant=dark&roadmaps=python%2Cbackend)](https://roadmap.sh)
+<!-- by https://roadmap.sh/ -->
