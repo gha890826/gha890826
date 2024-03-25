@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Who: 何培魁 (Pei-Kuei Ho, `@gha890826`)
 - Email: [`allenho324@gmail.com`](mailto:allenho324@gmail.com)
 - LinkedIn: [何培魁](https://www.linkedin.com/in/gha890826/)
+- Instagram: [c.k._photographer](https://www.instagram.com/c.k._photographer/)
 
 ## Some Cards
 
