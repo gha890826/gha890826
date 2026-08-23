@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # 何培魁 Pei-Kuei, Ho
 
+![](https://komarev.com/ghpvc/?username=gha890826&label=Profile+Views)
+
 ## 👨‍💻 About Me
 
 軟體／系統測試工程師（Server Test Engineer），任職於廣達電腦（Quanta Computer）。專注於 Server 測試自動化、DevOps 流程優化、CI 機制建立與系統級除錯。
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💼 Experience & Impact
+## 💼 Experience & Key Impact
 
 ### **Server Test Engineer** | 廣達電腦 Quanta Computer
 
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 專長領域 (Skills & Engineering Focus)
+## 🛠️ Tech Stack & Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -55,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 研究與過往專案 (Research & Projects)
+## 🚀 Projects & Side Projects
 
 * 🎓 **碩士論文**：[基於 Transformer 光流偵測架構之立體影像場景流估算及 3D 物件行為辨識](https://github.com/gha890826/cs_master_thesis)
 * 🚗 **資工系專題**：[台灣路牌辨識](https://github.com/gha890826/cs_bachelor_proj)
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Stats & Roadmap
+## 📊 Stats & Developer Roadmap
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gha890826?ext=contest" alt="LeetCode Stats" />
