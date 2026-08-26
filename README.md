@@ -74,7 +74,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://roadmap.sh/u/allenho" target="_blank">
-    <img src="https://api.roadmap.sh/v1-badge/tall/6601d1210973993ed05ac664?variant=dark" alt="Roadmap Profile" />
-  </a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a8afebdbff53a9700b587c9?variant=dark" alt="roadmap.sh"/></a>
 </p>
